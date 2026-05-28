@@ -14,3 +14,6 @@ git status
 
 # see whats changes
 git log
+
+# Salah message
+git commit -m "sadasd" --amend
