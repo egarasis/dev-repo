@@ -1,19 +1,19 @@
 git config -- global user.email ""
 git config -- global user.name ""
 
-# Sekali
+# first
 git init
 
-# Ini sering
+# must know
 git add .
 git commit -m "sadasd"
 git push
 
-# Ngeliat ada yang berubah
+# get status
 git status
 
 # see whats changes
 git log
 
-# Salah message
+# change message
 git commit -m "sadasd" --amend
