@@ -8,3 +8,9 @@ git init
 git add .
 git commit -m "sadasd"
 git push
+
+# Ngeliat ada yang berubah
+git status
+
+# see whats changes
+git log
